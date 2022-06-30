@@ -3,6 +3,7 @@
 ## Predicción de efectividad de respuestas a preguntas en foros y redes sociales.
 
 Autor: Jose Antonio García Marín
+
 Tutor: D. Rafael Valencia García
 
 En este repositorio se deja disponible el código que ha sido utilizado para la resolución de los diferentes métodos descritos en la memoria. 
